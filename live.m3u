@@ -785,13 +785,7 @@ https://flussonic.deltainfonet.com/04_Ptvsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-3
 http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -1
-http://212.102.34.8:9080/AndFlixHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -2
-http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -3
-http://103.165.93.31:8095/unt-s/video.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -4
-https://proxy.futuredesh.com/api/proxy?url=http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=1dsfds1fsdf
+http://103.179.25.147:8181/TSPORTS-MADARCHOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -1
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -2
