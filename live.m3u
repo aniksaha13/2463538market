@@ -763,7 +763,7 @@ http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 7
 https://flussonic.deltainfonet.com/02_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 8
-http://203.18.159.115/SSCSPORTS5HD/tracks-v1a1/mono.m3u8
+http://203.18.159.115/SSCSPORTS5FHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 1
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 2
